@@ -1,0 +1,9 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Bienvenido a TrackMyRoute",
+      "description": "Te damos la bienvenida a nuestra aplicación, explora todas nuestras funcionalidades, muchas gracias por elegirnos."
+    }
+  ]
+}
